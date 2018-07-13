@@ -1,1 +1,6 @@
 theme: jekyll-theme-leap-day
+exclude:
+  - *
+include:
+  - README.md
+  - something.json
