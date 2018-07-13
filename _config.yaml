@@ -1,6 +1,6 @@
 theme: jekyll-theme-leap-day
-exclude:
-  - "*"
+#exclude:
+#  - "*"
 include:
   - index.md
   - something.json
