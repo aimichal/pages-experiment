@@ -1,6 +1,7 @@
 theme: jekyll-theme-leap-day
-#exclude:
-#  - "*"
+exclude:
+  - "*"
 include:
+  - assets # so that themes work?
   - index.md
   - something.json
