@@ -3,4 +3,5 @@ exclude:
   - "*"
 include:
   - README.md
+  - index.html
   - something.json
